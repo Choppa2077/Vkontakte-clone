@@ -1,0 +1,31 @@
+.header {
+    box-shadow: 0 0 100px rgba(0,0,0,0.3);
+}
+
+.vk-logo {
+    width: 136px;
+}
+
+.box {
+    height: 42px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.navbar{
+    background-color: white;
+}
+input {
+    width: 200px;
+}
+.notifications {
+  
+    width: 30px;
+}
+
+button{
+    border: none;
+}

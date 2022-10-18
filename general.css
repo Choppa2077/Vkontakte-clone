@@ -1,0 +1,10 @@
+.mainmain{
+    margin-top: 70px;
+    margin-left: 110px;
+}
+
+input {
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(237,238,240);
+}

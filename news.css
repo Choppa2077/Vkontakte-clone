@@ -1,0 +1,108 @@
+.news {
+    
+    position:relative;
+    width: 550px;
+    border-radius: 10px;
+    height: 2500px;
+   
+}
+
+.submit {
+    width: 550px;
+    height: 42px;
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+}
+
+.icon {
+    width: 20px;
+    border-radius: 15px;
+}
+
+.submit-icons {
+    
+    width: 22px;
+    display: flex;
+    align-items: center;
+}
+.submit-icons-uniq{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    
+    width: 37px;
+}
+
+
+.rel{
+    display: inline-block;
+    position: relative;
+}
+.flex-pos {
+    display: inline-block;
+
+}
+.pos{
+   display: flex;
+   flex-direction: column;
+   ;
+   width: 100%;
+   height: 62px;
+   
+   bottom: 0;
+   position: absolute;
+   justify-content: center;
+   align-items: center;
+}
+
+.pos-inside{
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    border-style: solid;
+    position: absolute;
+    top:0;
+    border-color: rgb(134,193,252);
+    
+    
+}
+
+
+
+.text-stories{
+  color: rgb(134,193,252);
+}
+
+.story-icon{
+    width: 30px;
+    border-radius: 15px;
+    display: block;
+}
+.stories{
+    position: absolute;
+    height: 167px;
+    width: 550px;
+    height: 240px;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding-top: 10px;
+    background-color: white;
+   
+}
+.stories-block{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.stories-photos{
+    border-radius: 10px;
+    height: 167px;
+    width: 130px;
+}
+
